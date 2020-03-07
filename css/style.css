@@ -75,9 +75,9 @@ section {
 
 .link-content > p {
   display: inline-block;
-  width: 250px;
-  height: 80px;
-  line-height: 80px;
+  width: 75%;
+  height: 70px;
+  line-height: 70px;
   border: #333 solid 1px;
 }
 
