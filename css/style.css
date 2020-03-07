@@ -128,4 +128,5 @@ footer {
 .footer > p {
   font-size: 13px;
   color: #888;
+  letter-spacing: 0.075em;
 }
