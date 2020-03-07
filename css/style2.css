@@ -62,11 +62,6 @@ body {
   margin-bottom: 5%;
 }
 
-.profile > p:last-child {
-  margin-bottom: 0;
-  font-size: 14px;
-}
-
 .side {
   width: 200px;
 }
