@@ -120,6 +120,11 @@ footer {
   color: #666;
 }
 
+.archive > p > a:hover {
+  text-decoration: underline;
+  color: #888;
+}
+
 .footer > p {
   font-size: 13px;
   color: #888;
