@@ -20,7 +20,7 @@ a {
 }
 
 .container {
-  width: 50%;
+  width: 75%;
   margin: 0 auto;
   padding: 8% 0;
   text-align: center;
@@ -50,7 +50,7 @@ section {
 }
 
 .content {
-  width: 50%;
+  width: 75%;
   margin: 0 auto;
   padding: 8% 0;
   text-align: center;
@@ -105,7 +105,7 @@ section {
 }
 
 .footer {
-  width: 50%;
+  width: 75%;
   margin: 0 auto;
   padding: 8% 0;
   text-align: center;
