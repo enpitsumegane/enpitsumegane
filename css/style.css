@@ -104,11 +104,20 @@ section {
   line-height: 1.7;
 }
 
-.footer {
+footer {
   width: 75%;
   margin: 0 auto;
   padding: 8% 0;
   text-align: center;
+}
+
+.archive {
+  margin-bottom: 8%;
+}
+
+.archive > p > a {
+  font-size: 14px;
+  color: #666;
 }
 
 .footer > p {
