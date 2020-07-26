@@ -50,6 +50,32 @@ p {
   text-align: center;
 }
 
-.a:hover {
+#about .container {
+  display: block;
+}
 
+#about .grid-content {
+  height: 70vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0 6%;
+}
+
+#about .grid-content:nth-of-type(even), .back-top {
+  background-color: #D4D4D4;
+}
+
+#about h1 {
+  margin-bottom: 48px;
+}
+
+#about h2 {
+  font-size: 20px;
+  margin-bottom: 24px;
+}
+
+#about p {
+  line-height: 1.5;
 }
